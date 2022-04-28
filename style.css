@@ -1,0 +1,252 @@
+.Homepage{
+    background-color:ghostwhite;
+    padding-bottom: 100px;
+    box-sizing: border-box;
+}
+.container p{
+font-size: 23px;
+margin-top: -37px;
+
+}
+ul li{ 
+    list-style: none;
+    display: inline;
+    float: right 80%;
+    padding: 20px;
+    font-size: 23px;
+    margin-left: 15%;;
+     
+     }
+     .btn{
+         box-sizing: border-box;
+         padding: 30px;
+         color: #ffffff;
+         border-radius: 20%;
+         background-color:#800080;
+         float: right;
+         margin-top: -10%;
+     }
+     .Header{
+         font-weight: bold;
+         font-size: 50px;
+         float: right 30%;
+         margin-left: 10%;
+     }
+     .Header h1{
+         font-size: 20px;
+     }
+     .pic1{
+         margin-left: 50%;
+         height: 30%;
+         width: 30%;
+         margin-top: -80px;
+     }
+      .butt{
+          color: #ffffff;
+         background-color: darkgreen;
+         box-sizing: border-box;
+         border-radius: 20%;
+         padding: 30px
+     }
+.img{
+    background-color: #ffffff;
+    /* padding: 50px; */
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+.col{
+    padding: 30px;
+}
+      .icons{
+         display: flex;
+     }
+     .icon{
+         color: yellow;
+         padding: 10px;
+     }
+     .ic{
+         color: green;
+         margin-left: 5%;
+         padding-bottom: 5%;
+     } 
+     .sec2{
+         display: flex;
+         background-color: azure; 
+         box-sizing: border-box;
+     }
+     .Ex{
+         display: flex;
+         padding: 30px;
+     }
+     .h1{
+         margin-right: 300px;
+     }
+     .h2{
+         margin-right: 30px;
+     }
+    .h3{
+        margin-left: 200px;
+        font-size: 22px;
+    }
+    .img{
+        display: flex;
+    }
+    .img1{
+       margin-right: 300px;
+    }
+    .img2{
+        margin-left: 50%;
+    }
+    .img3{
+        margin-right: 90%;
+    }
+    .statement{
+         float: right; 
+        margin-right: 40%;
+        /* margin-bottom: 100%; */
+        padding: 40px;
+        color: whitesmoke;
+    }
+    .word{
+        /* margin-bottom: -100%; */
+        background-color:darkcyan;
+        padding: 30px;
+    }
+    .Dev{
+        color: aliceblue;
+    }
+    .our{
+        margin-left: 40%;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .circle{
+        background-color:antiquewhite;
+        margin-left: 20px; 
+        padding: 30px;
+    }
+    .market{
+        float: right;
+         margin-left: 500px; 
+        margin-top: -300px;
+        background-color: #ffffff;
+    } 
+    .sect3{
+        padding-top: 10%;
+    }
+    .sect3{
+        margin-left: 900px;
+    }
+    .sect3 h2{
+        font-size: 30px;
+    }
+    .sect3{
+        font-size: 14px;
+    }
+    .sect3 h3{
+        font-size:23px ;
+    }
+    .sect3 h4{
+        font-size: 23px;
+    }
+    .sect3 h5{
+        font-size: 23px;
+    }
+    .span1{
+        border: 2px solid;
+        border-radius: 5%;
+        color: rgb(0, 255, 13);
+    }
+    .span2{
+        border: 2px solid;
+        border-radius: 5%;
+        color: blue;
+    }
+    .span3{
+        border: 2px solid;
+        border-radius: 5%;
+        color: rgb(251, 255, 0);
+        font-size: 23px; 
+    }
+    .sect3 image{
+        margin-left: -500%;
+    }
+    .pictures{
+        margin-top: 130px;  
+    }
+    .section4 p{
+        font-size: 23px;
+    }
+    .section4 h1{
+        font-size: 50px;
+    }
+    .beautiful{
+        margin-left: 50%;
+        margin-top: -28%;
+    }
+    .beautiful h{
+        font-size: 50px;
+        font-weight: bold;
+    }
+    .beautiful h2{
+     font-size: 23px 
+      } 
+      .beautiful h1{
+          font-size: 23px;
+      }
+      .beautiful h3{
+          font-size: 23px;
+      } 
+      .section4{
+        text-align: center;
+        margin-top: 20%;
+    }
+    .btn2 p{
+        margin-left: 75%;           
+        margin-top: -13%;
+        width: 100px;
+        height: 30px;
+        border-radius: 50px;
+        background-color: #8800FF;
+        width: 20%;
+    }
+    .btn2{
+        border: 2px solid; 
+        border-radius: 30px;
+        width: 30%;
+        margin-left: 35%;
+        background-color: #51A78F;
+        height:50px;
+    }
+    .btn2 h4{
+        margin-right:70%
+    }
+   .final{
+        margin-left:150px;
+       margin-top: 10%; 
+       display: flex;
+       background-color: antiquewhite;
+
+   }
+   
+   .last h2{
+       font-size: 50px;
+   }
+   .text p{
+       background-color: antiquewhite;
+       width: 100%;
+       padding: 10px
+   }
+   .text p{
+       background-color: antiquewhite;
+       width: 30%;
+       padding: 30px;
+       margin-top: 10%;
+   }
+   .lastpic{
+       margin-left: 20%;
+       margin-top: 0%;
+       margin-top: 5%;
+       height: 500px;
+   }
